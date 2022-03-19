@@ -16,3 +16,5 @@ In addition, the cost manager desktop application allow its users to register wh
 The desktop application will use a database (phpMyAdmin)and stored in the this database.
 
 The UI developed using Swing. The architecture pattern used is MVVM.
+
+![image](https://user-images.githubusercontent.com/86160407/159115894-bd29c918-3c22-49d1-bda6-d0e13e0d04e4.png)
