@@ -1,4 +1,4 @@
-# Cost-Manger
+# Cost-Manger -Stand Alone Application
 cost manager desktop application that allows its users to track their expenses.
 
 The project includes a standalone application that uses a relational database.
