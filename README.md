@@ -13,7 +13,7 @@ The application allow its users the following operations:
 
 In addition, the cost manager desktop application allow its users to register when they run the app for the first time, and to perform login/logout.
 
-The desktop application will use a database (phpMyAdmin)and stored in the this database.
+The desktop application will use a database (phpMyAdmin) and stored in the this database.
 
 The UI developed using Swing. The architecture pattern used is MVVM.
 
