@@ -3,9 +3,9 @@ cost manager desktop application that allows its users to track their expenses.
 
 The project includes a standalone application that uses a relational database.
 
-The application allow its users (at the minimum) the following operations:
+The application allow its users the following operations:
 
-1. Adding a new cost while specifying (at the minimum) the category to which that cost will be added, the sum, the currency, and a small text describing that cost.
+1. Adding a new cost while specifying the category to which that cost will be added, the sum, the currency, and a small text describing that cost.
 
 2. Adding new categories to a small list of categories that should be already defined.
 
